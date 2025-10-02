@@ -1,0 +1,15 @@
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\bin\Debug\net8.0\SYSS8-YSYS-OPG.exe
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\bin\Debug\net8.0\SYSS8-YSYS-OPG.deps.json
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\bin\Debug\net8.0\SYSS8-YSYS-OPG.runtimeconfig.json
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\bin\Debug\net8.0\SYSS8-YSYS-OPG.dll
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\bin\Debug\net8.0\SYSS8-YSYS-OPG.pdb
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\obj\Debug\net8.0\SYSS8-YSYS-OPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\obj\Debug\net8.0\SYSS8-YSYS-OPG.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\obj\Debug\net8.0\SYSS8-YSYS-OPG.AssemblyInfo.cs
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\obj\Debug\net8.0\SYSS8-YSYS-OPG.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\obj\Debug\net8.0\SYSS8-YSYS-OPG.sourcelink.json
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\obj\Debug\net8.0\SYSS8-YSYS-OPG.dll
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\obj\Debug\net8.0\refint\SYSS8-YSYS-OPG.dll
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\obj\Debug\net8.0\SYSS8-YSYS-OPG.pdb
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\obj\Debug\net8.0\SYSS8-YSYS-OPG.genruntimeconfig.cache
+C:\Users\amand\source\repos\SYSS8-YSYS-OPG\SYSS8-YSYS-OPG\obj\Debug\net8.0\ref\SYSS8-YSYS-OPG.dll
